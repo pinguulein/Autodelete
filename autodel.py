@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 global channels
 
-prefix = "%" # Dein Prefix
+prefix = "%" # Dein Prefi
 bot = commands.Bot(command_prefix=prefix)
 client = discord.Client()
 channels = []
